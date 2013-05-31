@@ -1,0 +1,3 @@
+[submodule "unplug2shutdown"]
+	path = unplug2shutdown
+	url = git@github.com:claudiodangelis/unplug2shutdown.git
